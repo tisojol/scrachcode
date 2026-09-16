@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 5 |
+| 15 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (3)
+- [games](#games) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (11)
-- [math](#math) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (4)
 
 ---
@@ -27,6 +29,12 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/tisojol/scrachcode/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### greedy
 
@@ -58,6 +66,13 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/tisojol/scrachcode/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### strings
 
