@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 19 |
+| 88 | 19 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (59)
+- [implementation](#implementation) (60)
 - [math](#math) (27)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (2)
@@ -197,6 +197,7 @@
 | 1324A | [Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1324/A%20-%20Yet%20Another%20Tetris%20Problem/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
+| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Java 21](https://github.com/tisojol/scrachcode/blob/HEAD/1676/A%20-%20Lucky%3F/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
