@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 19 |
+| 91 | 19 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (14)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [brute force](#brute-force) (15)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
@@ -23,13 +23,13 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (15)
-- [implementation](#implementation) (62)
+- [greedy](#greedy) (16)
+- [implementation](#implementation) (63)
 - [math](#math) (27)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (10)
-- [strings](#strings) (15)
+- [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -63,6 +63,7 @@
 | 1207A | [There Are Two Types Of Burgers](https://codeforces.com/contest/1207/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1207/A%20-%20There%20Are%20Two%20Types%20Of%20Burgers/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### constructive algorithms
@@ -74,6 +75,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### data structures
 
@@ -134,6 +136,7 @@
 | 1207A | [There Are Two Types Of Burgers](https://codeforces.com/contest/1207/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1207/A%20-%20There%20Are%20Two%20Types%20Of%20Burgers/solution.cpp) |
 | 1216B | [Shooting](https://codeforces.com/contest/1216/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1216/B%20-%20Shooting/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
@@ -203,6 +206,7 @@
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/tisojol/scrachcode/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
@@ -289,6 +293,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### two pointers
 
