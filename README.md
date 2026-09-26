@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 19 |
+| 93 | 19 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
@@ -24,11 +24,11 @@
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (63)
-- [math](#math) (27)
+- [implementation](#implementation) (65)
+- [math](#math) (28)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (10)
+- [sortings](#sortings) (11)
 - [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
 
@@ -83,6 +83,7 @@
 |---|---------|------------|----------|
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 1104B | [Game with string](https://codeforces.com/contest/1104/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1104/B%20-%20Game%20with%20string/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 
 ### dfs and similar
 
@@ -204,7 +205,9 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Java 21](https://github.com/tisojol/scrachcode/blob/HEAD/1692/A%20-%20Marathon/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/tisojol/scrachcode/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
@@ -235,6 +238,7 @@
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2051/B%20-%20Journey/solution.cpp) |
@@ -270,6 +274,7 @@
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1216B | [Shooting](https://codeforces.com/contest/1216/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1216/B%20-%20Shooting/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tisojol/scrachcode/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
